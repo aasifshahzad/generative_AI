@@ -60,4 +60,4 @@ Systematically test modifications to prompts to ensure improved performance. Eva
 
 By employing these strategies, users can enhance the effectiveness of language models and obtain more accurate and desirable results.If you want to learn more you can go through this free course also:
 
-(https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)
+[ChatGPT Prompt Engineering for Developers](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)
